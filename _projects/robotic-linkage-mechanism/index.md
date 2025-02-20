@@ -5,5 +5,5 @@ description:  Worked in a team to design, build, and control a complex linkage m
 skills: 
 - signal processing
 - transmission design
-main-image: /project.webp 
+main-image: /IMG_6858.jpg
 ---
