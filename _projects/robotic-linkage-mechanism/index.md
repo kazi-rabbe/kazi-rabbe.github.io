@@ -13,8 +13,11 @@ main-image: /IMG_6858.jpg
 Given a preset playing field, our team was responsible for designing the most optimal button pressing linkage to maximize our points within the time limit. Points were scored if the correct button was pressed--the signal for which was provided by an Arduino connected to the playing field. There is a bonus green button that awards more points. It is the only button that is not required to be pressed by the provided 2" by 1/2" by 1/4" acrylic block.
 
 ## Motion Generation
-Use this to have subsection if needed
+### Four-Bar Linkage Mechanism
+After multiple trial sketches, our team found a four-bar linkage mechanism which reduced our maximum transmission angle deviation to a mere 7 degrees in two of the three positions. We employed an oblique button pressing mechanism which also reduced the transmission angle deviation further than one which presses the centers.
 
+### Button-Pressing Mechanism
+In our design, the provided acrylic block attached to the solenoid via a 3D-printed part that fits to the plunger endpoint geometry.  This then connected to the surface of the acrylic using epoxy. The rails connect to the acrylic piece using an adhesive and go through the coupler. The rails prevent the acrylic piece from being able to rotate on the end of the solenoid plunger.
 
 ## Embedding images 
 ### External images
