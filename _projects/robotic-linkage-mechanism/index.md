@@ -9,9 +9,10 @@ main-image: /IMG_6858.jpg
 ---
 
 ---
-## Header 2  
-Four-Bar-Linkage Sketching
-### Header 3 
+## Project Constraints
+Given a preset playing field, our team was responsible for designing the most optimal button pressing linkage to maximize our points within the time limit. Points were scored if the correct button was pressed--the signal for which was provided by an Arduino connected to the playing field. There is a bonus green button that awards more points. It is the only button that is not required to be pressed by the provided 2" by 1/2" by 1/4" acrylic block.
+
+## Motion Generation
 Use this to have subsection if needed
 
 
