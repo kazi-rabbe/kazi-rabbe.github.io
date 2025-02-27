@@ -26,4 +26,4 @@ In creating our initial assembly, we chose to minimize the size of our base plat
 A combination of sensors and controllers were used to move our mechanism into the desired positiion/orientation to press each button. This was achieved with an Arduino microcontroller board. For safety, a toggle switch was used in case the mechanism ran into any issues. After assembling our linkage on the playing field and finalizing wiring, we further optimized our performance through PID tuning and adaptive gains.
 
 # Final Performance Video
-{% include youtube-video.html id="zZu0kbBJCd0" autoplay = "true" %}
+{% include youtube-video.html id="zZu0kbBJCd0" autoplay = "true" width = "900px" %}
