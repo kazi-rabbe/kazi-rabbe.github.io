@@ -86,6 +86,12 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
+<form action="https://formspree.io/f/xgvogebv" method="POST">
+  <input type="email" name="email" placeholder="Your email" required>
+  <textarea name="message" placeholder="Your message" required></textarea>
+  <button type="submit">Send</button>
+</form>
+
 formspree-key:   https://formspree.io/f/xgvogebv
 
 
