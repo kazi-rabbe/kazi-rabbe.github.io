@@ -5,7 +5,7 @@ description:  FLEx, or the Fitness-Feedback Lifting Experience, is a smart belt 
 skills: 
 - Solidworks CAD
 - Rhino 3D
-main-image: /project.webp 
+main-image: /FLEX.jpg
 ---
 
 # Background
