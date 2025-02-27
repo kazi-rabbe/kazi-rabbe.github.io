@@ -10,4 +10,3 @@ skills:
 - Rhino 3D
 main-image: /project.webp 
 ---
-
