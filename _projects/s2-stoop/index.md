@@ -5,5 +5,5 @@ description:  An app that connects users looking to give away or find items, hel
 skills: 
 - Human-centered Design
 - Figma
-main-image: /project.webp 
+main-image: /stooplogo.jpg
 ---
