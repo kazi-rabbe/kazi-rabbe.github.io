@@ -7,3 +7,7 @@ skills:
 - Figma
 main-image: /stooplogo.jpg
 ---
+
+
+# Demo Video
+{% include youtube-video.html id="rkm1gP0XUrs" autoplay = "false" width = "900px" %}
