@@ -933,14 +933,6 @@ footer p {
     .contact-section{
         padding: 0 20px
     }
-
-    /* Input and Textarea adjustments for dark mode */
-    .contact-section .group form input, 
-    .contact-section .group form textarea {
-        color: white; /* Set text color to white */
-        caret-color: white; /* Set cursor color to white */
-    }
-  
   
 
   
