@@ -22,7 +22,6 @@ html {
 }
 
 body {
-    cursor: url('/assets/images/rocket.png') 16 16, auto;
     padding: 0 50px;
     font-family: 'Poppins', sans-serif;
     background-color: var(--background-color);
