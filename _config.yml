@@ -86,8 +86,8 @@ formspree-key:   xgvogebv
 colors: # basic
   text: "#1a1c20"
   border: "#ddd"
-  link: "#5c4033"  # Dark brown
-  highlight: "#3e2c23"  # Richer dark brown for emphasis
+  link: "#4a76ee"
+  highlight: "#0c0cf2"
   background: "#ffffff"
   light_background: "#f3f5fb"
 
