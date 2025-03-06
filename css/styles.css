@@ -933,6 +933,12 @@ footer p {
     .contact-section{
         padding: 0 20px
     }
+
+    /* Change the placeholder text color */
+    .contact-section input::placeholder,
+    .contact-section textarea::placeholder {
+        color: #888; /* Lighter gray for placeholders */
+    }
   
 
   
