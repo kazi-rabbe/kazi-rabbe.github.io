@@ -69,6 +69,11 @@ nav .right a:last-child:hover{
     background-color: var(--light-background-color);
 }
 
+/* Hover effect */
+nav ul li a:hover {
+    color: #FFD700;  /* Change text color to gold */
+    transform: scale(1.1);  /* Slightly enlarge the text */
+}
 
 
 
