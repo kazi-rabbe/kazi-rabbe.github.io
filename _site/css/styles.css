@@ -31,15 +31,15 @@ a {
     text-decoration: none;
 }
 
-h1 {
+h1:hover {
     color: var(--text-color);
     font-size: calc(14px + 1.0vw); /* Base size of 20px, increases with viewport width */
 }
-h2 {
+h2:hover {
     color: var(--text-color);
     font-size: calc(11px + 0.8vw);
 }
-h3 {
+h3:hover {
     font-weight: normal;
     color: var(--text-color);
     font-size: calc(9px + 0.6vw);
