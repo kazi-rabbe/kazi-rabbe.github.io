@@ -934,10 +934,20 @@ footer p {
         padding: 0 20px
     }
 
+    /* Styling input and textarea fields */
+    .contact-section input, 
+    .contact-section textarea {
+        color: #ffffff; /* White text for dark mode */
+        background-color: #000000; /* Black background */
+        border: 1px solid #ffffff; /* White border */
+        padding: 10px;
+        font-size: 16px;
+    }
+
     /* Change the placeholder text color */
     .contact-section input::placeholder,
     .contact-section textarea::placeholder {
-        color: #888; /* Lighter gray for placeholders */
+        color: #888888; /* Lighter gray for placeholders */
     }
   
 
