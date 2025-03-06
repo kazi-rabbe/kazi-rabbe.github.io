@@ -85,7 +85,7 @@ formspree-key:   xgvogebv
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # basic
   text: "#e0e0e0"  # Light gray text for readability
-  border: "#444"  # Darker border
+  border: "#ffffff"  # Darker border
   link: "#4a76ee"  # Keeping links blue for contrast
   highlight: "#569cd6"  # Softer blue for highlights
   background: "#121212"  # Dark background
