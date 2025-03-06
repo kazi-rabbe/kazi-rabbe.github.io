@@ -80,10 +80,15 @@ nav .right {
     gap: 15px;
 }
 
-nav .right a {
+nav .right.desktop-nav a {
     color: var(--text-color);
     font-size: 23px;
     margin-left: 30px;
+}
+
+nav .right.desktop-nav a:hover {
+    color: #ff6347; /* Change text color on hover (you can change this) */
+    transform: scale(1.1); /* Slightly enlarge the text on hover (you can adjust this) */
 }
 
 nav .right a:last-child
