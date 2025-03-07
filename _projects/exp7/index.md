@@ -7,5 +7,5 @@ skills:
 - PLM (PTC Windchill)
 - GD&T
 - ISO Fits and Tolerances
-main-image: /project.webp 
+main-image: /Solar-Turbines.webp 
 ---
