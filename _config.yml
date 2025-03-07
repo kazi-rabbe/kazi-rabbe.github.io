@@ -14,12 +14,12 @@ title: Kazi Rabbe's Portfolio # This is what shows up in the tab of the browser
 # Hero Section
 name: Kazi Rabbe
 headline: Mechanical Engineer, B.S. @ Columbia
-description: >- # dont remove this line. this will ignore all new lines until the next section
-  I bring concepts to life via real-world experience from ideation to engineering design to manufacturing.
+description:  |- #>- # dont remove this line. this will ignore all new lines until the next section
+  I bring concepts to life via real-world experience from ideation to engineering design to manufacturing. It's important to me that my work emblems the definition of engineering for humanity. 
+  
+  When I'm not creating, you may find me cooking for my friends and family, playing basketball, or persuading people to let me cut their hair (I'm good...just trust me).
 
-  In my free time, I like to cook for my friends and family, play basketball, and persuade people to let me cut their hair (I'm good...just trust me).
-
-  In the future I would like to open the first 3 michelin-star Indian restaurant (I've never made Indian food--but you thought I did, didn't you?).
+  
 
   
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
