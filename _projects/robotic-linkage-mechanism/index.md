@@ -22,7 +22,7 @@ In our design, the provided acrylic block attached to the solenoid via a 3D-prin
 # Energy Conversion/Transmission
 In creating our initial assembly, we chose to minimize the size of our base plate and opted for a compact design thereby reducing the weight of our mechanism. Up to this point, however, we had yet to consider how we were going to move our linkage. We then embarked upon our transmission selection through inertia matching as well as by checking the resolution at the button pressing mechanism, which needs a fine enough sensor resolution to position the button-pressing mechanism where it is intended. The former method yielded a transmission ratio of 1.59 whereas the latter was calculated to be 1.24. Hence, we chose the more conservative 5:3 transmission ratio (1.67:1) for our motor. Thus, we could minimize travel time while meeting speed and torque requirements. Then, onto machining we went!
 
-{% include image-gallery.html images="transmissioncalc.png" height="800" %}
+{% include image-gallery.html images="trancalc.png" height="800" %}
 
 # Safety and Motor Control
 A combination of sensors and controllers were used to move our mechanism into the desired positiion/orientation to press each button. This was achieved with an Arduino microcontroller board. For safety, a toggle switch was used in case the mechanism ran into any issues. After assembling our linkage on the playing field and finalizing wiring, we further optimized our performance through PID tuning and adaptive gains.
