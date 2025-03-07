@@ -19,6 +19,9 @@ After multiple trial sketches, our team found a four-bar linkage mechanism which
 ## Button-Pressing Mechanism
 In our design, the provided acrylic block attached to the solenoid via a 3D-printed part that fits to the plunger endpoint geometry.  This then connected to the surface of the acrylic using epoxy. The rails connect to the acrylic piece using an adhesive and go through the coupler. The rails prevent the acrylic piece from being able to rotate on the end of the solenoid plunger. We optimized for moment of inertia to ensure a fast, dynamic response.
 
+<iframe src="/assets/images/Full Assembly.pdf" width="100%" height="600px"></iframe>
+
+
 # Energy Conversion/Transmission
 In creating our initial assembly, we chose to minimize the size of our base plate and opted for a compact design thereby reducing the weight of our mechanism. Up to this point, however, we had yet to consider how we were going to move our linkage. We then embarked upon our transmission selection through inertia matching as well as by checking the resolution at the button pressing mechanism, which needs a fine enough sensor resolution to position the button-pressing mechanism where it is intended. The former method yielded a transmission ratio of 1.59 whereas the latter was calculated to be 1.24. Hence, we chose the more conservative 5:3 transmission ratio (1.67:1) for our motor. Thus, we could minimize travel time while meeting speed and torque requirements. Then, onto machining we went!
 
