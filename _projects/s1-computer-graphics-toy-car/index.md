@@ -6,3 +6,15 @@ skills:
 - Solidworks CAD
 main-image: /expassembly.png
 ---
+
+## Car Modeling Plan
+<iframe src="/assets/images/CarModelPlan.pdf" width="100%" height="600px"></iframe>
+
+## Model Comparison
+### Toy Car
+
+### SolidWorks Assembly
+{% include image-gallery.html images="toycar.png" height="400" %}
+
+## Exploded Assembly
+{% include image-gallery.html images="expassembly.png" height="400" %}
