@@ -7,26 +7,19 @@ skills:
 main-image: /expassembly.png
 ---
 
-
-<style>
-  .gallery-item {
-    margin-bottom: 20px; /* Adds space after each image */
-  }
-
-  iframe {
-    margin-bottom: 20px; /* Adds space after each iframe */
-  }
-</style>
-
 ## Car Modeling Plan
 <iframe src="/assets/images/CarModelPlan.pdf" width="100%" height="600px"></iframe>
 
 ## Model Comparison
 ### Toy Car
-{% include image-gallery.html images="CarReal.png" height="300"%}
+<div style="margin-bottom: 20px;">
+  {% include image-gallery.html images="CarReal.png" height="300"%}
+</div>
 
 ### SolidWorks Assembly
-{% include image-gallery.html images="toycar.png" height="400"%}
+<div style="margin-bottom: 20px;">
+  {% include image-gallery.html images="toycar.png" height="400"%}
+</div>
 
 ## Exploded Assembly
 {% include image-gallery.html images="ToyDrawing-1.png" height="800"%}
