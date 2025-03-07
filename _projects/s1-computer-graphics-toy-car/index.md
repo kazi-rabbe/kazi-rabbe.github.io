@@ -12,7 +12,7 @@ main-image: /expassembly.png
 
 ## Model Comparison
 ### Toy Car
-{% include image-gallery.html images="CarReal.png" height="400" %}
+{% include image-gallery.html images="CarReal.png" height="300" %}
 
 ### SolidWorks Assembly
 {% include image-gallery.html images="toycar.png" height="400" %}
