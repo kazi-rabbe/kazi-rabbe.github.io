@@ -38,3 +38,5 @@ A heat transfer FEA study in SolidWorks was performed to maintain safe operating
 Power consumption analysis led to the selection of 150 mAh batteries, which provide adequate runtime (2.5 hours for the belt, 1.1 hours for the band) while avoiding excessive heat risks.
 
 [Click to learn more](https://www.canva.com/design/DAGgQ0ZwQMQ/fS4ipzphQ-U35H5JEPUKRA/view?utm_content=DAGgQ0ZwQMQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7acc439f47)
+
+{% include image-gallery.html images="FLEXProto.png" height="900" %}
