@@ -18,4 +18,4 @@ main-image: /expassembly.png
 {% include image-gallery.html images="toycar.png" height="400" style="margin-bottom: 20px;" %}
 
 ## Exploded Assembly
-<iframe src="/assets/images/ToyDrawing.pdf" width="100%" height="600px"></iframe>
+{% include image-gallery.html images="ToyDrawing.pdf" height="400" style="margin-bottom: 20px;" %}
