@@ -18,4 +18,4 @@ main-image: /expassembly.png
 {% include image-gallery.html images="toycar.png" height="400"%}
 
 ## Exploded Assembly
-{% include image-gallery.html images="ToyDrawing-1.png" height="400"%}
+{% include image-gallery.html images="ToyDrawing-1.png" height="900"%}
