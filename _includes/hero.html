@@ -69,11 +69,9 @@
             </h2>
             
             <h3> {{site.headline}} </h3>
-            {% assign paragraphs = site.description | split: "\n\n" %}
-            {% for paragraph in paragraphs %}
-              <p>{{ paragraph }}</p>
-            {% endfor %}
             <p> {{site.description}}</p>
+            <p>Here is a new sentence that follows the description.</p>
+            <p>Feel free to add more details about your work or personal interests here.</p>
             <div class="links">
                 <a href="#projects">
                     <i class="fa-solid fa-pen"></i>
