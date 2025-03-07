@@ -7,5 +7,5 @@ skills:
 - 5S+1
 - DFMA
 - Robotics & Automation
-main-image: /project.webp 
+main-image: /Greenheck-group.jpg
 ---
