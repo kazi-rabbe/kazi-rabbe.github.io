@@ -22,23 +22,6 @@ In our design, the provided acrylic block attached to the solenoid via a 3D-prin
 <iframe src="https://drive.google.com/file/d/1m48jbnxvz8Gttr7czfU_08FZ9u4Bzmf1/view?usp=drive_link&embedded=true" width="100%" height="600px"></iframe>
 
 
-
-  /* Hide iframe on small screens and show a download link */
-  @media (max-width: 768px) {
-    .pdf-container { display: none; }
-    .mobile-pdf-link { display: block; text-align: center; }
-  }
-</style>
-
-<div class="pdf-container">
-  <iframe src="/assets/images/Full Assembly.pdf"></iframe>
-</div>
-
-<p class="mobile-pdf-link" style="display: none;">
-  <a href="/assets/images/Full Assembly.pdf" target="_blank">📄 Open PDF</a>
-</p>
-
-
 # Energy Conversion/Transmission
 In creating our initial assembly, we chose to minimize the size of our base plate and opted for a compact design thereby reducing the weight of our mechanism. Up to this point, however, we had yet to consider how we were going to move our linkage. We then embarked upon our transmission selection through inertia matching as well as by checking the resolution at the button pressing mechanism, which needs a fine enough sensor resolution to position the button-pressing mechanism where it is intended. The former method yielded a transmission ratio of 1.59 whereas the latter was calculated to be 1.24. Hence, we chose the more conservative 5:3 transmission ratio (1.67:1) for our motor. Thus, we could minimize travel time while meeting speed and torque requirements. Then, onto machining we went!
 
