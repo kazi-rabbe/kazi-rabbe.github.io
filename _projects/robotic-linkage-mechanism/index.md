@@ -19,7 +19,7 @@ After multiple trial sketches, our team found a four-bar linkage mechanism which
 ## Button-Pressing Mechanism
 In our design, the provided acrylic block attached to the solenoid via a 3D-printed part that fits to the plunger endpoint geometry.  This then connected to the surface of the acrylic using epoxy. The rails connect to the acrylic piece using an adhesive and go through the coupler. The rails prevent the acrylic piece from being able to rotate on the end of the solenoid plunger. We optimized for moment of inertia to ensure a fast, dynamic response.
 
-<iframe src="https://drive.google.com/file/d/1m48jbnxvz8Gttr7czfU_08FZ9u4Bzmf1/view?usp=drive_link&embedded=true" width="100%" height="600px"></iframe>
+<iframe src="/assets/images/Full Assembly.pdf" width="100%" height="600px"></iframe>
 
 
 # Energy Conversion/Transmission
