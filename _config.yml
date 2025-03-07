@@ -14,7 +14,7 @@ title: Kazi Rabbe's Portfolio # This is what shows up in the tab of the browser
 # Hero Section
 name: Kazi Rabbe
 headline: Mechanical Engineer, B.S. @ Columbia
-description: #>- # dont remove this line. this will ignore all new lines until the next section
+description: >- # dont remove this line. this will ignore all new lines until the next section
   I bring concepts to life via real-world experience from ideation to engineering design to manufacturing.
 
   In my free time, I like to cook for my friends and family, play basketball, and persuade people to let me cut their hair (I'm good...just trust me).
