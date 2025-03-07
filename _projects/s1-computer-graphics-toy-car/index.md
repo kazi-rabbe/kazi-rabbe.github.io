@@ -8,14 +8,14 @@ main-image: /expassembly.png
 ---
 
 ## Car Modeling Plan
-<iframe src="/assets/images/CarModelPlan.pdf" width="100%" height="600px" style="margin-bottom: 20px;"></iframe>
+<iframe src="/assets/images/CarModelPlan.pdf" width="100%" height="600px"></iframe>
 
 ## Model Comparison
 ### Toy Car
-{% include image-gallery.html images="CarReal.png" height="300" style="margin-bottom: 20px;" %}
+{% include image-gallery.html images="CarReal.png" height="300"%}
 
 ### SolidWorks Assembly
-{% include image-gallery.html images="toycar.png" height="400" style="margin-bottom: 20px;" %}
+{% include image-gallery.html images="toycar.png" height="400"%}
 
 ## Exploded Assembly
-{% include image-gallery.html images="ToyDrawing.pdf" height="400" style="margin-bottom: 20px;" %}
+{% include image-gallery.html images="ToyDrawing.pdf" height="400"%}
