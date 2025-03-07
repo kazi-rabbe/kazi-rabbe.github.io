@@ -19,9 +19,11 @@ description:  |- #>- # dont remove this line. this will ignore all new lines unt
   
   When I'm not creating, you may find me cooking for my friends and family, playing basketball, or persuading people to let me cut their hair (I'm good...just trust me).
 
-about:
+reading:
   Reading - Martyr by Kaveh Akbar
-  Watching - The white Lotus
+
+watching:
+  Watching - The White Lotus
   
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/IMG_0642.JPG
