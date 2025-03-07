@@ -7,6 +7,17 @@ skills:
 main-image: /expassembly.png
 ---
 
+
+<style>
+  .gallery-item {
+    margin-bottom: 20px; /* Adds space after each image */
+  }
+
+  iframe {
+    margin-bottom: 20px; /* Adds space after each iframe */
+  }
+</style>
+
 ## Car Modeling Plan
 <iframe src="/assets/images/CarModelPlan.pdf" width="100%" height="600px"></iframe>
 
@@ -18,4 +29,4 @@ main-image: /expassembly.png
 {% include image-gallery.html images="toycar.png" height="400"%}
 
 ## Exploded Assembly
-{% include image-gallery.html images="ToyDrawing-1.png" height="900"%}
+{% include image-gallery.html images="ToyDrawing-1.png" height="800"%}
